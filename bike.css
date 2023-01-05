@@ -1,0 +1,49 @@
+h1{
+    color: gold;
+    background-color: #555;
+    padding: 10px 10px;
+    margin: 20px 16px;
+    border: solid 3px black;
+    text-align: center;
+    border-radius: 3px;
+    font-family: cursive;
+}
+h2{
+        color: gold;
+        background-color: #555;
+        padding: 10px 10px;
+        margin: 0px 16px;
+        border: solid 3px black;
+        text-align: center;
+        border-radius: 3px;
+        font-family: cursive;
+        width: 200px;
+        display: flexbox;
+        justify-items:center
+}
+
+li{
+    color:gold;
+}
+.tipos{
+    color: black;
+    font-family: cursive;
+    padding: 2px 2px;
+    width: 200px;
+    text-decoration: underline;   
+}
+
+p{
+    color: #555;
+    font-family: cursive;
+    font-style: italic;
+    font-size:small
+}
+
+button{
+    color: gold;
+    background-color: #555;
+    padding: 5px 5px;
+    border-radius: 5px;
+    margin: 10px 10px;
+}
